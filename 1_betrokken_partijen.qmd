@@ -3,9 +3,11 @@ title: "Uitbreiding visiegebied Duivenbos  \nGevolgen voor buurtbewoners"
 date: today
 authors: "Bernadette Michiels  \nKarel De Tremerie"
 title-block-banner: true
+
+styles:
+  .custom-callout:
+    width: 500px
 ---
-
-
 
 # De betrokken partijen: wie is wie?
 
@@ -35,8 +37,6 @@ Door de staatshervormingen werden verschillende bevoegdheden overgeheveld van de
 
 ### Beleidsdomeinen van de Vlaamse overheid
 
-
-
 Deze bevoegdheden van de Vlaamse overheid worden gerealiseerd door verschillende overheidsdiensten, die gegroepeerd worden in **beleidsdomeinen**.
 
 Een beleidsdomein bestaat uit een **departement** en een of meer **agentschappen** (horizontaal bestuur).
@@ -46,8 +46,6 @@ Een beleidsdomein bestaat uit een **departement** en een of meer **agentschappen
 -   Een *agentschap* is voornamelijk verantwoordelijk voor beleids*uitvoerende* taken en heeft een grotere mate van autonomie. Daarom spreekt men ook over 'verzelfstandigde' agentschappen.
 
 Deze structuur werd in 2006 ingevoerd bij de grootschalige reorganisatie onder de noemer 'Beter Bestuurlijk Beleid' (BBB). In de praktijk werken departementen en agentschappen nauw samen bij zowel beleidsvoorbereiding als beleidsuitvoering.
-
-
 
 ### Beleidsdomein Omgeving
 
@@ -66,8 +64,8 @@ Het Vlaamse Gewest is bevoegd voor het omgevingsbeleid in Vlaanderen. Het is de 
     -   Vlaamse reguleringsinstantie voor de Elektriciteits- en Gasmarkt (VREG)\
         \
 
-:::{.column-page-inset-right}
-![Beleidsdomein Omgeving - organogram (click to enlarge)](docs/Beleidsdomein_omgeving.png){.lightbox width=100%}
+::: column-page-inset-right
+![Beleidsdomein Omgeving - organogram (click to enlarge)](docs/Beleidsdomein_omgeving.png){.lightbox width="100%"}
 :::
 
 #### Agentschap Natuur en Bos (ANB)
@@ -94,20 +92,72 @@ Zoals duidelijk bepaald in het decreet van 5 april 1995 houdende algemene bepali
 
 De adviezen die de Raad verstrekt zijn niet bindend. De besluitvormers zijn vrij om de aangereikte argumenten en opmerkingen al dan niet in hun beleid te integreren.
 
-
-
-
-
 ## Natuurpunt
 
 Tekst in opbouw
 
 ## Boerenbond
 
+### De landbouwcrisis van 1880
+
+De laatste hongersnood in onze gewesten dateert van 1845-1847. Door het uitbreken van de aardappelziekte (Phytophtora infestans) en zeer slechte weersomstandigheden breekt een voedelscrisis uit. De daaropvolgende jaren kenden goede graanprijzen.
+
+Ondertussen werden in Noord-Amerika grote oppervlakten landbouwgebied ontgonnen.
+
+::: {.callout-note appearance="default" collapse="true" icon="true"}
+## De Homestead Act van 1862 en de eerste agrarische revolutie in de VS   [@Morison, p.424-435]
+
+Door de Homestead Act van 1862 konden 'settlers' quasi gratis 160 'acres' (64 hectare) grond verwerven in het Westen (nu: midden-Amerika). Als voorwaarde werd gesteld dat men minstens vijf jaar op de grond moest blijven wonen. Veel settlers verbraken echter het contract en verlieten de gronden vooraleer de vijf jaren verstreken waren. En daar waren diverse redenen voor.
+
+-   Klimatologisch: zonder irrigatie was het klimaat in de Midwest niet geschikt voor landbouw.
+-   In tegenstelling met Oost Amerika bestond de Midwest uit 'prairies' en niet uit loofbossen. Hout was schaars. Het was dan ook onmogelijk het vee binnen omheiningen te houden. Daardoor was er ook geen mest beschikbaar.
+-   Doordat kunstmest nog niet bestond moest men noodgedwongen aan extensieve landbouw doen. Na één seizoen werd doorgeschoven naar een volgende perceel. Het vorige perceel bleef onbedekt liggen en leed zwaar onder erosie. De oorspronkelijk '100 acres' bleek al gauw onvoldoende.
+-   Het voornaamste landbouwwerktuig, de ploeg, was gemaakt van hout en/of gietijzer. Ze had een ruw blad waardoor de prairiegrond aan de ploeg bleef kleven. Ploegen ging traag en moeizaam.
+-   Mechanisatie was nog niet doorgebroken. Er waren arbeidskrachten tekort voor het vele werk.
+-   Door gebrek aan infrastuctuur kon de oogst niet vervoerd worden.
+-   Er was veel fraude door niet-landbouwers die gronden probeerden te verwerven. De spoorwegmagnaten speelden een belangrijke rol.
+-   De inheemse bevolking was niet steeds opgezet met de komst van de settlers. Dit leidde vaak tot bloedige conflicten met Sioux, Apaches, Arapaho en Cheyennes en brachten veel leed en verlies van mensenlevens met zich mee aan beide zijden. Ze vormen een tragisch onderdeel van de Amerikaanse geschiedenis van westwaartse expansie en de interactie tussen settlers en inheemse bevolkingsgroepen.
+
+De Amerikaanse overheid werd zich snel bewust van de problemen en nam verschillende maatregelen. De '100 acres' werd uitgebreid en er werd spoed gezet achter de aanleg van een spoorlijn die Oost en West zou verbinden.
+
+Na 1870 geraakten een aantal van deze problemen opgelost.
+
+-   In 1869 werd de Union Pacific Railroad in gebruik genomen. Deze spoorweg met Californië als bestemming was de eerste transcontinentale spoorweg.
+-   In 1873 wordt prikkeldraad (barbed wire) uitgevonden wat een intensivering van de veeteelt toeliet.
+-   In 1854 wordt de eerste zelf-regelende windmolen gepatenteerd (self-regulating water pump windmills). Deze windmolen, meer nog dan de spoorwegen, was cruciaal voor de kolonisatie van het Midden-Westen. Windmolens maakten het mogelijk voor veehouders en boeren om te wonen en te werken op land waar geen betrouwbare natuurlijke watervoorziening was. En toen de spoorlijnen begonnen uit te breiden richting de Stille Oceaan, leverden windmolens het water voor de locomotieven en degenen die ze moesten bedienen.
+-   In 1837 ontwikkelt John Deere een ploeg, voorzien van stalen ploegmessen, waardoor deze veel sterker en duurzamer was dan de traditionele houten ploegen. Het gebruik van staal maakte de ploeg ook scherper waardoor hij gemakkelijker door de grond kon snijden en een gladdere ploegsnee kon maken waardoor de aarde niet aan de ploeg bleef plakken. De uitvinding van de stalen ploeg wordt beschouwd als een van de belangrijkste innovaties in de landbouwgeschiedenis, omdat het de landbouwproductiviteit aanzienlijk verhoogde en een revolutie teweegbracht in de landbouwpraktijken. Pas in de tweede helft van de negentiende eeuw schakelt men over op industriele product van de ploegen.
+-   Het tekort aan werkkrachten op de nieuwe landbouwbedrijven stimuleerde de ontwikkeling van nieuwe landbouwwerktuigen. In de tweede helft van de negentiende eeuw schakelt men over op industriele productie van landbouwwerktuigen en machines. Mechanisatie deed zijn ingang met dors-, maai-, pik- en zaaimachines. Maar alle machines werden nog getrokken door paarden. Na 1880 komen stoommachines geleidelijk aan in gebruik.
+:::
+
+Aangetrokken door de hoge Europese prijzen ging het Amerikaanse graan de markt hier overspoelen (de 'agrarische invasie' van 1880-1895): de prijzen stortten in en een grote crisis brak uit onder de landbouwbevolking. In de jaren die volgen grijpt een rurale exodus plaats. Niet alleen de landbouwcrisis maar ook de explosieve uitbreiding van de industrie, die een sterke aantrekking uitoefent door hoge lonen, zorgen daarvoor.
+
+::: {.callout-note appearance="default" collapse="true" icon="true" width="60%"}
+## Boeren zaten vaak gekneld is het systeem.   [@Craeybeckx1973, p.208-211]
+
+Boeren zaten vaak gekneld in het systeem door hun afhankelijkheid van de grondeigenaar en oneerlijke handelspraktijken. (Craeybeckx, p. 208)
+
+*"De klachten over het bedrog op de kwaliteit door handelaars in kunstmest, veevoeder, zaaigoed, enz. waren niet uit de lucht. De misbruiken op dat gebied waren nog ondraaglijker wanneer de (grond)eigenaar tegelijk een graanhandelaar was en er zijn pachters toe verplichtte de zaden bij hem te kopen tegen sterk overdreven prijzen. Van hun invloed maakten dezelfde eigenaars soms gebruik om een agentschap voor verzekeringen tegen brand, een handel in scheikundige meststoffen, ja zelfs een kruidenierszaak op te zetten. De monografie van Thuysbaert over het Land van Waas meldt eveneens dat sommige brouwers er hun pachters toe noopten jaarlijks een aantal tonnen bier af te nemen, zodat ze een herberg moesten openen."*
+
+
+Van mechanisatie, zoals in Amerika, was weinig te merken door kapitaalgebrek. (Craeybeckx, p. 211)
+
+*"De boeren verdienden echter te weinig om te investeren in technische vernieuwing, wat de vooruitgang van de produktiviteït remde. De kleine en de gemiddelde boeren hielden er geen boekhouding op na, wat de rationalisatie van de bedrijven zeker niet bevorderde. Over het algemeen werden er weinig landbouwmachines gebruikt, zeker niet op kleine uitbatingen en in de armste gewesten. In sommige dorpen waren er een paar dorsmachines met paarden of stoom. Men sprak de vrees uit dat ze werkloosheid zouden veroorzaken en de vlucht van de landbouwarbeiders naar de industrie bespoedigen."*
+
+*"Het tekort aan kredietmogelijkheid voor de landbouw werd scherp aangevoeld. De pachters beschikten niet over voldoende waarborgen om een beroep te kunnen doen op de Spaar- en Lijfrentekas, wat sedert een wet van 1884 theoretisch mogelijk was. (...)  In plaats van zich te wenden tot de Spaarkas, deden de boeren meestal een beroep op hun eigenaar, op de notaris, de brouwer of de mesthandelaar. In veel streken meden de landbouwers het krediet als de pest. De intrest van de hypothecaire leningen schommelde tussen 4,5% en 6%, wat in die tijd enorm veel was. Men vroeg een intrestvoet, niet hoger dan 3%. De Raiffeisenkassen zouden weldra, ook zonder hypotheek, geld voorschieten tegen een intrest die toch wat hoger lag dan de gevraagde 3%."*
+:::
+
+Zowel in perioden van sterk toegenomen vraag (zoals tijdens voedseltekorten in de eerste helft van de negentiende eeuw) als van voedseloverschot (wat gepaard ging met scherpe prijsdalingen, zoals tijdens de laatste decennia van de negentiende eeuw), werden beleidsmaatregelen genomen om het aanbod van en de vraag naar voedsel in het 'gewenste' evenwicht te brengen. In 1884, als reactie op de crisis, werd het Ministerie van Landbouw opgericht.
+
+Landbouwverenigingen waren er op dat moment nog maar weinig. Wat wel al bestond, waren onderlinge bijstandskassen om verlies van vee te compenseren, en coöperaties voor gezamenlijke aankoop van kunstmest. Pas na 1886, en vooral in de jaren negentig, zouden landbouwersverenigingen het licht zien.
+
+### 
+
+Landbouwgilden.
+
+### Oprichting van het Ministerie van Landbouw
+
+## Lokale boeren
+
 Tekst in opbouw
 
-
-## Lokale boeren 
-
-Tekst in opbouw
-
+### References

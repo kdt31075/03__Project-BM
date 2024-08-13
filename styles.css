@@ -1,1 +1,4 @@
 /* css styles */
+.smaller-frame:
+    frame:
+      width: 70%  # Adjust this value as needed

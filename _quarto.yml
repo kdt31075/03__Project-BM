@@ -64,4 +64,8 @@ grid:
    sidebar-width: 350px
    gutter-width: 2.5em
    body-width: 1000px
+   
+styles:
+  .custom-callout:
+    width: 200px   
 
