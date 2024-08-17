@@ -3,7 +3,10 @@ title: "Uitbreiding visiegebied Duivenbos  \nGevolgen voor buurtbewoners"
 date: today
 authors: "Bernadette Michiels  \nKarel De Tremerie"
 title-block-banner: true
-execute :
+project:
+  type: website
+  output-dir: docs
+execute:
   echo: false
   output: true
   warning: false
